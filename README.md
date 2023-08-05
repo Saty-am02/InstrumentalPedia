@@ -8,7 +8,7 @@
 This repository contains the code for my instrument website, showcasing my instrument website,diffrent instrument sounds and more. The website is built using [HTML, CSS, JavaScript,php etc.], and it is designed to be fast, and user-friendly.
 
 **Live Website:** 
-http://cambly.epizy.com/cambly/
+instrmentalpedia.great-site.net/instumentalpedia
 
 ## Features
 
