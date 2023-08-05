@@ -22,13 +22,14 @@ instrmentalpedia.great-site.net/instumentalpedia
 ## Screenshot
 
 
-![index](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/c201776f-63bb-4ecf-98d8-5872e64c8555
-)
 ![quotes](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/cd58eaf0-5df6-4771-b08c-3af110ac0850
 )
-![login](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/31100dd8-3adb-4470-a88f-4f568481719f
+![index](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/c201776f-63bb-4ecf-98d8-5872e64c8555
 )
 ![language section](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/794dec28-76d3-4696-82fb-3b463fbe664d)
+![login](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/31100dd8-3adb-4470-a88f-4f568481719f
+)
+
 
 
 
