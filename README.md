@@ -1,4 +1,4 @@
-# InstrumentalPedia
+## InstrumentalPedia
 
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](http://cambly.epizy.com/cambly/blob/main/LICENS)
@@ -12,12 +12,12 @@ instrmentalpedia.great-site.net/instumentalpedia
 
 ## Features
 
-- Learning system showcasing my projects and work.
+- Instruments showcasing my projects and work.
 - About section for sharing my thoughts and experiences.
 - Contact page for getting in touch with me.
 - Login/Sinup page for user.
-- Quotes section.
-- Diffrent sections for diffrent languages.
+- instrument list section.
+- Diffrent sections for diffrent Instrument.
   
 ## Screenshot
 
