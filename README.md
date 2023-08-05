@@ -1,5 +1,5 @@
 # InstrumentalPedia
-# 
+
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](http://cambly.epizy.com/cambly/blob/main/LICENS)
 
@@ -22,11 +22,14 @@ instrmentalpedia.great-site.net/instumentalpedia
 ## Screenshot
 
 
-![index](https://github.com/Saty-am02/cambly/assets/88832726/20308461-3685-4a0d-b699-1949a001a54d)
-![quotes](https://github.com/Saty-am02/cambly/assets/88832726/8a61bd0d-83d9-4a84-b188-112dd8085076)
-![login](https://github.com/Saty-am02/cambly/assets/88832726/00fc3c27-61df-4e00-b6cd-6de63eabd08d)
-![language section](https://github.com/Saty-am02/cambly/assets/88832726/3c760b7f-cab3-4ada-8322-5e8415dfae34)
-![videos](https://github.com/Saty-am02/cambly/assets/88832726/a0c5964e-a1a9-48b6-99aa-9550cba6e3aa)
+![index](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/c201776f-63bb-4ecf-98d8-5872e64c8555
+)
+![quotes](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/cd58eaf0-5df6-4771-b08c-3af110ac0850
+)
+![login](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/31100dd8-3adb-4470-a88f-4f568481719f
+)
+![language section](https://github.com/Saty-am02/InstrumentalPedia/assets/88832726/794dec28-76d3-4696-82fb-3b463fbe664d)
+
 
 
 
